@@ -126,7 +126,7 @@
             Controls.Add(listView1);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Магазин \"АТБ\"";
+            Text = "WF Task Manager";
             ResumeLayout(false);
             PerformLayout();
         }
